@@ -1,0 +1,66 @@
+Tue Jul 21 15:55:17 2015 Jo-Anne Naples <naples@uchicago.edu> - Ticket created [Reply] [Comment] [Forward]
+To: 	errata2015@pglaf.org
+From: 	"Jo-Anne Naples" <naples@uchicago.edu>
+Subject: 	Shaw, Doctor's Dilemma, corrections (7-21-15)
+Date: 	Tue, 21 Jul 2015 17:54:59 -0500
+Download (untitled)
+/
+with headers
+
+text/html 4.2KiB
+Title: The Doctor's Dilemma
+Author: George Bernard Shaw
+Release Date: March 26, 2009 [EBook #5070]
+Last Updated: December 10, 2012
+
+Hi, David,
+
+Here’s yet another Shaw play with changes. As before, I’ve used my hardbound copy of Bernard Shaw Complete Plays with Prefaces, Dodd, Mead, New York, 1963, this time Vol. I, page numbers given below.
+
+One issue is formatting. When more than one person is speaking at once, braces are used as needed for the speech. The formatting of the braces and the speeches, however, doesn’t currently work, because all the speakers are on the same continuing line(s). I could try reformatting to at least put each speaker on a separate line. I’ll give a couple examples at the end of the list of corrections, so you can let me know if you’d like me to try reformatting. Unfortunately, the reformatting works best with a fixed-width font--but even with the variable-width fonts, it would be more readable.
+
+Thank you!
+
+Jo-Anne
+
+p. 93: If I wanted to kill s[**a] man
+
+===p. 93: will see nobody? [**start new line with: [To Sir Patrick]]
+
+p. 95: I sec[**see] you don’t believe
+
+p. 102: [**The following speech is printed as though it’s poetry—and therefore is in the wrong font and size as well as being centered when it should be left aligned: SIR PATRICK. And how do you tell one from the other?]
+
+p. 113: MRs[**MRS] DUBEDAT. Yes. I beg your pardon.
+
+p. 114: And we are full up?[**period, not question mark]
+
+p. 116: MRS DUBEDAT [shocked at the falsehood] Oh! [**start new speech with: RIDGEON [continuing] Dont look so bewildered: theres nobody dying.]
+
+p. 116: you are asking me to do a very serious thing?[**period, not question mark]
+
+p. 130: They match[**watch] her in silence.
+
+p. 136: a small last[**lay] figure
+
+p. 137: drag him down from the clouds.[**question mark, not period]
+
+p. 160: if Louis honored[**dishonored] himself
+
+Sample Formatting Changes
+
+1. Per p. 120 of my book, change from
+WALPOLE. {Most enjoyable. B. B. {Delightful. Charming. Unforgettable.
+
+to
+WALPOLE. {Most enjoyable.
+B. B.    {Delightful. Charming. Unforgettable.
+
+2. Per p. 127 of my book, change from
+B. B. { [All } No, no. Positively! Seriously! WALPOLE { exclaiming } What! Another fifty! BLENKINSOP { together] } Think of that! SIR PATRICK { } [grunts]!
+
+to
+B. B.       { [All       } No, no. Positively! Seriously!
+WALPOLE     { exclaiming } What! Another fifty!
+BLENKINSOP  { together]  } Think of that!
+SIR PATRICK {            } [grunts]!
