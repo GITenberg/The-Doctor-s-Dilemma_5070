@@ -11,7 +11,7 @@ Title: The Doctor's Dilemma
 Author: George Bernard Shaw
 
 Release Date: February, 2004 [EBook #5070]
-Posting Date: March 26, 2009
+Posting Date: July 22, 2015
 
 Language: English
 
@@ -492,12 +492,12 @@ negative phase, as you call it. Eh?
 
 RIDGEON. Precisely. To inject a vaccine into a patient without first
 testing his opsonin is as near murder as a respectable practitioner can
-get. If I wanted to kill s man I should kill him that way.
+get. If I wanted to kill a man I should kill him that way.
 
 EMMY [looking in] Will you see a lady that wants her husband's lungs
 cured?
 
-RIDGEON [impatiently] No. Havnt I told you I will see nobody?[To Sir
+RIDGEON [impatiently] No. Havnt I told you I will see nobody? [To Sir
 Patrick] I live in a state of siege ever since it got about that I'm a
 magician who can cure consumption with a drop of serum. [To Emmy] Dont
 come to me again about people who have no appointments. I tell you I can
@@ -569,7 +569,7 @@ spine; and theres nothing wrong with your heart; but theres something
 wrong with your common sense. Youre not going to die; but you may be
 going to make a fool of yourself. So be careful.
 
-RIDGEON. I sec you dont believe in my discovery. Well, sometimes I dont
+RIDGEON. I see you dont believe in my discovery. Well, sometimes I dont
 believe in it myself. Thank you all the same. Shall we have Walpole up?
 
 SIR PATRICK. Oh, have him up. [Ridgeon rings]. He's a clever operator,
@@ -856,7 +856,7 @@ genuine diphtheria bacillus discovered by Loeffler; and there is the
 pseudo-bacillus, exactly like it, which you could find, as you say, in
 my own throat.
 
-         SIR PATRICK. And how do you tell one from the other?
+SIR PATRICK. And how do you tell one from the other?
 
 B. B. Well, obviously, if the bacillus is the genuine Loeffler, you have
 diphtheria; and if it's the pseudobacillus, youre quite well. Nothing
@@ -1302,7 +1302,7 @@ can, isnt it? [In great distress] Oh, tell me, please.
 RIDGEON [warningly] You are going to be quiet and self-possessed, arnt
 you?
 
-MRs DUBEDAT. Yes. I beg your pardon. I know I shouldnt--[Giving way
+MRS DUBEDAT. Yes. I beg your pardon. I know I shouldnt--[Giving way
 again] Oh, please, say that you can; and then I shall be all right.
 
 RIDGEON [huffily] I am not a curemonger: if you want cures, you must go
@@ -1427,8 +1427,9 @@ You see people die every day.
 RIDGEON [petting her] Nonsense! it's nothing: I told him to come in and
 say that. I thought I should want to get rid of you.
 
-MRS DUBEDAT [shocked at the falsehood] Oh! RIDGEON [continuing] Dont
-look so bewildered: theres nobody dying.
+MRS DUBEDAT [shocked at the falsehood] Oh!
+
+RIDGEON [continuing] Dont look so bewildered: theres nobody dying.
 
 MRS DUBEDAT. My husband is.
 
@@ -1555,7 +1556,9 @@ MRS DUBEDAT. Oh, I am sure the train is best.
 
 RIDGEON. Well, Mrs Dubedat, we have had a most enjoyable evening.
 
-WALPOLE. {Most enjoyable. B. B. {Delightful. Charming. Unforgettable.
+WALPOLE. {Most enjoyable.
+
+B. B. {Delightful. Charming. Unforgettable.
 
 MRS DUBEDAT [with a touch of shy anxiety] What did you think of Louis?
 Or am I wrong to ask?
@@ -1842,9 +1845,13 @@ drawings that really pleased him. He also said that his wife was greatly
 struck with my knowledge, and that she always admired Jews. Then he
 asked me to advance him 50 pounds on the security of the drawings.
 
-B. B. { [All } No, no. Positively! Seriously! WALPOLE { exclaiming }
-What! Another fifty! BLENKINSOP { together] } Think of that! SIR PATRICK
-{ } [grunts]!
+B. B. { [All } No, no. Positively! Seriously!
+
+WALPOLE { exclaiming } What! Another fifty!
+
+BLENKINSOP { together] } Think of that!
+
+SIR PATRICK { } [grunts]!
 
 SCHUTZMACHER. Of course I couldnt lend money to a stranger like that.
 
@@ -1940,7 +1947,10 @@ wife?
 
 THE MAID. Dont believe them, sir. She cant be his wife. I'm his wife.
 
-B. B.   {[in amazed remonstrance] My good girl! RIDGEON {You his wife!
+B. B.   {[in amazed remonstrance] My good girl!
+
+RIDGEON {You his wife!
+
 WALPOLE {What! whats that? Oh, this is getting perfectly
 fascinating, Ridgeon.
 
@@ -2049,7 +2059,7 @@ BLENKINSOP. Good-night, sir--I mean--Good-night.
 
 SCHUTZMACHER [waving his hand to the rest] Goodnight, everybody.
 
-WALPOLE { B. B. { SIR PATRICK { Good-night. RIDGEON {
+WALPOLE { B. B. { SIR PATRICK { RIDGEON  { Good-night.
 
 B. B. repeats the salutation several times, in varied musical tones.
 Schutzmacher goes out.
@@ -2205,7 +2215,7 @@ There is a studio throne (a chair on a dais) a little to the left,
 opposite the inner door, and an easel to the right, opposite the outer
 door, with a dilapidated chair at it. Near the easel and against the
 wall is a bare wooden table with bottles and jars of oil and medium,
-paint-smudged rags, tubes of color, brushes, charcoal, a small last
+paint-smudged rags, tubes of color, brushes, charcoal, a small lay
 figure, a kettle and spirit-lamp, and other odds and ends. By the table
 is a sofa, littered with drawing blocks, sketch-books, loose sheets of
 paper, newspapers, books, and more smudged rags. Next the outer door is
@@ -2251,7 +2261,7 @@ living too much in the skies. On my solemn oath, from this moment forth
 I will never borrow another penny.
 
 MRS DUBEDAT [delighted] Ah, thats right. Does his wicked worrying wife
-torment him and drag him down from the clouds. [She kisses him]. And
+torment him and drag him down from the clouds? [She kisses him]. And
 now, dear, wont you finish those drawings for Maclean?
 
 LOUIS. Oh, they dont matter. Ive got nearly all the money from him in
@@ -2536,8 +2546,13 @@ Dubedat is living with you without being married to you?
 
 LOUIS. Why not?
 
-B. B. { [echoing him in } Why not! SIR PATRICK { various tones of } Why
-not! RIDGEON { scandalized } Why not! WALPOLE { amazement] } Why not!
+B. B. { [echoing him in } Why not!
+
+SIR PATRICK { various tones of } Why not!
+
+RIDGEON { scandalized } Why not!
+
+WALPOLE { amazement] } Why not!
 
 LOUIS. Yes, why not? Lots of people do it: just as good people as you.
 Why dont you learn to think, instead of bleating and bashing like a
@@ -2634,9 +2649,13 @@ settles it.
 LOUIS. Does it! Why cant you think? How do you know she wasnt married
 already too?
 
-B.B. { [all } Walpole! Ridgeon! RIDGEON { crying } This is beyond
-everything! WALPOLE { out } Well, damn me! SIR PATRICK { together] } You
-young rascal.
+B.B. { [all } Walpole! Ridgeon!
+
+RIDGEON { crying } This is beyond everything!
+
+WALPOLE { out } Well, damn me!
+
+SIR PATRICK { together] } You young rascal.
 
 LOUIS [ignoring their outcry] She was married to the steward of a liner.
 He cleared out and left her; and she thought, poor girl, that it was the
@@ -3192,7 +3211,7 @@ set against him?
 RIDGEON. Yes: I understand.
 
 MRS DUBEDAT. Oh, if you only knew the other side of him as I do! Do you
-know, doctor, that if Louis honored himself by a really bad action, I
+know, doctor, that if Louis dishonored himself by a really bad action, I
 should kill myself.
 
 RIDGEON. Come! dont exaggerate.
@@ -3545,7 +3564,7 @@ and say "There goes the man who has been in hell." I want them to point
 at you and say "There goes a woman who has been in heaven." It has been
 heaven, darling, hasnt it--sometimes?
 
-MRs DUBEDAT. Oh yes, yes. Always, always.
+MRS DUBEDAT. Oh yes, yes. Always, always.
 
 LOUIS. If you wear black and cry, people will say "Look at that
 miserable woman: her husband made her miserable."
@@ -3875,8 +3894,8 @@ Nature's debt must be paid. If tis not to-day, twill be to-morrow.
      No traveller returns
      Leave not a wrack behind.
 
-Walpole is about to speak, but B. B., suddenly and vehemently
-proceeding, extinguishes him.
+[Walpole is about to speak, but B. B., suddenly and vehemently
+proceeding, extinguishes him.]
 
      Out, out, brief candle:
      For nothing canst thou to damnation add
@@ -3897,9 +3916,13 @@ MRS DUBEDAT [coming from the inner door wonderfully and beautifully
 dressed, and radiant, carrying a great piece of purple silk, handsomely
 embroidered, over her arm] I'm so sorry to have kept you waiting.
 
-SIR PATRICK } [amazed, all { Dont mention it, madam. B.B. } together {
-Not at all, not at all. RIDGEON } in a confused { By no means. WALPOLE }
-murmur] { It doesnt matter in the least.
+SIR PATRICK } [amazed, all] { Dont mention it, madam.
+
+B.B. } [together] { Not at all, not at all.
+
+RIDGEON } [in a confused] { By no means.
+
+WALPOLE } [murmur] { It doesnt matter in the least.
 
 MRS. DUBEDAT [coming to them] I felt that I must shake hands with his
 friends once before we part to-day. We have shared together a great
